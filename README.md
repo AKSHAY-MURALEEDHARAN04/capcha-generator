@@ -1,1 +1,0 @@
-# capcha-generator
